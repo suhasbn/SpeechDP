@@ -1,4 +1,4 @@
-# DP_Term_Project_Codes
+# SpeechDP
 
 The repository contains two python files: 
 1. stats.py for calculating the statistics of the dataset : mean and S.D. The stats.txt file shows the output from the stats.py code. We will need these values in the differential_privacy.py code.
